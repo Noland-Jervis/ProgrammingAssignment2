@@ -102,4 +102,4 @@ In order to complete this assignment, you must do the following:
 
 ### Grading
 
-This assignment will be graded via peer assessment.
+This assignment will be graded via peer assessment. It was tough getting to add the clone to my local system.
